@@ -30,3 +30,5 @@ http://193.8.246.16:8000/vl-ru-tv3-800
 http://193.8.246.16:8000/vl-ru-zvezda-1800
 #EXTINF:-1,ЗВЕЗДА
 http://193.8.246.16:8000/vl-ru-zvezda-800
+#EXTINF:-1 tvg-id="arxyz24" tvg-name="Архыз 24" tvg-language="Russian" tvg-logo="" group-title="Local",Архыз 24
+https://strm.yandex.ru/kal/arhyz24/arhyz240.m3u8
